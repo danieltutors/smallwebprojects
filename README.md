@@ -1,2 +1,2 @@
-# smallwebprojects
-Small Web Projects Using Vanilla JavaScript
+# Web Projects with Vanilla JavaScript
+This is the main repository for these mini webprojects.
